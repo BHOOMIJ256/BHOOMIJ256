@@ -1,9 +1,18 @@
 <h3 align="center"></h3>
 
-<h1 align="left"> About Me :</h1>
-<p align="left">:
+<h1 align="left"> 👩‍💻 About Me </h1>
+<p align="left">
+Hello! I’m Bhoomi Jain, a driven and curious Data Science and Analytics undergraduate currently in my 5th semester, with a deep interest in building intelligent systems that solve real-world problems.
 
-📌 Interests
+Currently, I'm diving deep into the intersection of Artificial Intelligence, Machine Learning, and Natural Language Processing, with a strong foundation in Python, data structures, and end-to-end model development. I've built and deployed full-stack applications that combine powerful ML models with interactive dashboards, and I’m especially passionate about integrating Large Language Models (LLMs) like LLaMA, BERT, and GPT into enterprise use cases.
+
+From designing AI-driven dashboards to building custom APIs and handling real-time data pipelines, I thrive at the point where data meets usability.
+
+I believe in continuous learning, clean code, and clear communication—and I’m always looking forward to the next problem to solve.
+</p>
+
+<h1 align ="left">📌 Interests</h1>
+<p>
 🔍 Data Analysis & Visualization
 Exploring and interpreting complex datasets using SQL, Python, NumPy, Pandas, and visualizing insights through Matplotlib, Seaborn, Power BI, and Excel. Passionate about transforming raw data into actionable stories.
 
@@ -18,17 +27,7 @@ Working with spaCy, NLTK, and transformer-based models (BERT, LLaMA, GPT) for ta
 
 🚀 AI-Powered Applications & Model Deployment
 Passionate about converting ML models into real-world applications via Flask/FastAPI APIs, Exo WebUI, and cloud services like AWS EC2, S3. Focused on building scalable, intelligent systems with strong UI/UX and practical use.
-
-
 </p>
-
-<h2 align ="Left"> Intrests</h2>
-<b>Data Analysis</b>: Diving deep into datasets to uncover patterns and insights with usage of SQL, Python, Numpy, Pandas, Matplotlib, Seaborn, and various other tools and frameworks.
-<br><br>
-<b>Web Development</b>: Designing and developing interactive dashboards and applications through tools like PowerBi, Excel, HTML, CSS, Javascript, React, Node.js, etc various frameworks .
-<br><br>
-<b>Machine Learning and Deep Learning</b>:
-
 
 <h2 align ="left">Skills</h2>
 <b>Programming Languages</b>: Python, SQL, HTML, CSS.
