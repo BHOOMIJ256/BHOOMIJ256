@@ -1,7 +1,25 @@
 <h3 align="center"></h3>
 
 <h1 align="left"> About Me :</h1>
-<p align="left">Hello! My name is Bhoomi Jain,a passionate and enthusiastic Data Scientist  currently pursuing Bachelor of Science in Data Science and Analytics at R.A Podar College of Commerce and Economics (2023-2026).With a strong foundation in Mathematic, Statistics and Machine Learning and a keen interest in AI, I aim to make a meaningful impact in the world of technology by leveraging cutting edge technolgies into practice.
+<p align="left">:
+
+📌 Interests
+🔍 Data Analysis & Visualization
+Exploring and interpreting complex datasets using SQL, Python, NumPy, Pandas, and visualizing insights through Matplotlib, Seaborn, Power BI, and Excel. Passionate about transforming raw data into actionable stories.
+
+🌐 Web & Dashboard Development
+Building interactive dashboards and user-friendly applications using HTML, CSS, JavaScript, React.js, and Node.js, along with integration tools like Flask, FastAPI, and Streamlit for real-time AI-driven insights.
+
+🤖 Machine Learning & Deep Learning
+Developing end-to-end ML pipelines using scikit-learn, XGBoost, and TensorFlow/Keras. Experience with model tuning, evaluation, and deployment in classification, regression, and anomaly detection tasks.
+
+🧠 Natural Language Processing & LLMs
+Working with spaCy, NLTK, and transformer-based models (BERT, LLaMA, GPT) for tasks like text classification, sentiment analysis, summarization, and enterprise Q&A systems. Interested in fine-tuning LLMs and building LLM-integrated applications.
+
+🚀 AI-Powered Applications & Model Deployment
+Passionate about converting ML models into real-world applications via Flask/FastAPI APIs, Exo WebUI, and cloud services like AWS EC2, S3. Focused on building scalable, intelligent systems with strong UI/UX and practical use.
+
+
 </p>
 
 <h2 align ="Left"> Intrests</h2>
