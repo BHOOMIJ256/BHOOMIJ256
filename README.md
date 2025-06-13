@@ -29,12 +29,27 @@ Working with spaCy, NLTK, and transformer-based models (BERT, LLaMA, GPT) for ta
 Passionate about converting ML models into real-world applications via Flask/FastAPI APIs, Exo WebUI, and cloud services like AWS EC2, S3. Focused on building scalable, intelligent systems with strong UI/UX and practical use.
 </p>
 
-<h2 align ="left">Skills</h2>
-<b>Programming Languages</b>: Python, SQL, HTML, CSS.
-<br>
-<b>Tools & Libraries</b>: PowerBI, Excel, Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Scikit-learn.
-<br>
-<b>Specializations</b>: Data Visualization, Machine Learning, Deep Learning, NLP
+<h2 align ="left">🛠️ Skills</h2>
+
+💻<b>Programming Languages</b>: Python, SQL, HTML, CSS, JavaScript
+
+
+🧰<b>Tools & Frameworks</b>: Power BI, Microsoft Office Suite, Git & GitHub, VS Code, Postman, Google Colab, Jupyter Notebook
+
+📊 <b>Data Science & Analysis</b> : NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scipy
+
+🤖 <b>Machine Learning & Deep Learning</b>: Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, OpenCV, Streamlit, FastAPI
+
+💬 <b>Natural Language Processing (NLP)</b>: spaCy, NLTK, Transformers (HuggingFace), BERT, LLaMA, TF-IDF, Word2Vec, TextBlob
+
+🌐 <b> Web & App Development</b>: Flask, FastAPI, React.js, Node.js (basic), Streamlit.
+
+☁️<b> Model Deployment & DevOps</b>: Docker, AWS EC2, AWS S3, Render, PostgreSQL, SQLite
+
+📌 <b>Specializations</b>: Data Visualization, Machine Learning, Deep Learning, Natural Language Processing (NLP),
+LLM Integration, AI-Powered Dashboards, End-to-End Model Deployment
+
+
 
 <h2>Lets Connect</h2>
 Email : bhoomi901jain@gmail.com
