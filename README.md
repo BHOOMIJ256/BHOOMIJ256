@@ -44,7 +44,7 @@ Passionate about converting ML models into real-world applications via Flask/Fas
 
 🌐 <b> Web & App Development</b>: Flask, FastAPI, React.js, Node.js (basic), Streamlit.
 
-☁️<b> Model Deployment & DevOps</b>: Docker, AWS EC2, AWS S3, Render, PostgreSQL, SQLite
+☁️<b> Model Deployment & DevOps</b>: AWS EC2, AWS S3, Render, PostgreSQL, SQLite
 
 📌 <b>Specializations</b>: Data Visualization, Machine Learning, Deep Learning, Natural Language Processing (NLP),
 LLM Integration, AI-Powered Dashboards, End-to-End Model Deployment
