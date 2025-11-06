@@ -31,7 +31,7 @@ Passionate about converting ML models into real-world applications via Flask/Fas
 
 <h2 align ="left">🛠️ Skills</h2>
 
-💻<b>Programming Languages</b>: Python, SQL, HTML, CSS, JavaScript
+💻<b>Programming Languages</b>: Python,C++, SQL, HTML, CSS, JavaScript
 
 
 🧰<b>Tools & Frameworks</b>: Power BI, Microsoft Office Suite, Git & GitHub, VS Code, Postman, Google Colab, Jupyter Notebook
