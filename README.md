@@ -36,15 +36,15 @@ Passionate about converting ML models into real-world applications via Flask/Fas
 
 🧰<b>Tools & Frameworks</b>: Power BI, Microsoft Office Suite, Git & GitHub, VS Code, Postman, Google Colab, Jupyter Notebook
 
-📊 <b>Data Science & Analysis</b> : NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scipy
+📊 <b>Data Science & Analysis</b> : NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scipy.
 
-🤖 <b>Machine Learning & Deep Learning</b>: Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, OpenCV, Streamlit, FastAPI
+🤖 <b>Machine Learning & Deep Learning</b>: Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, Streamlit, FastAPI, Flask
 
 💬 <b>Natural Language Processing (NLP)</b>: spaCy, NLTK, Transformers (HuggingFace), BERT, LLaMA, TF-IDF, Word2Vec, TextBlob
 
 🌐 <b> Web & App Development</b>: Flask, FastAPI, React.js, Node.js (basic), Streamlit.
 
-☁️<b> Model Deployment & DevOps</b>: AWS EC2, AWS S3, Render, PostgreSQL, SQLite
+☁️<b> Model Deployment & DevOps</b>: AWS, Render, Vercel, Railway, Docker, PostgreSQL, SQLite
 
 📌 <b>Specializations</b>: Data Visualization, Machine Learning, Deep Learning, Natural Language Processing (NLP),
 LLM Integration, AI-Powered Dashboards, End-to-End Model Deployment
