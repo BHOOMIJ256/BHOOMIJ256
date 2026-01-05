@@ -38,7 +38,7 @@ Passionate about converting ML models into real-world applications via Flask/Fas
 
 📊 <b>Data Science & Analysis</b> : NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scipy.
 
-🤖 <b>Machine Learning & Deep Learning</b>: Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, Streamlit, FastAPI, Flask
+🤖 <b>Machine Learning & Deep Learning</b>: Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, Streamlit.
 
 💬 <b>Natural Language Processing (NLP)</b>: spaCy, NLTK, Transformers (HuggingFace), BERT, LLaMA, TF-IDF, Word2Vec, TextBlob
 
