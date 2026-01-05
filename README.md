@@ -2,7 +2,7 @@
 
 <h1 align="left"> 👩‍💻 About Me </h1>
 <p align="left">
-Hello! I’m Bhoomi Jain, a driven and curious Data Science and Analytics undergraduate currently in my 5th semester, with a deep interest in building intelligent systems that solve real-world problems.
+Hello! I’m Bhoomi Jain, a driven and curious Data Science and Analytics undergraduate currently in my 6th semester, with a deep interest in building intelligent systems that solve real-world problems.
 
 Currently, I'm diving deep into the intersection of Artificial Intelligence, Machine Learning, and Natural Language Processing, with a strong foundation in Python, data structures, and end-to-end model development. I've built and deployed full-stack applications that combine powerful ML models with interactive dashboards, and I’m especially passionate about integrating Large Language Models (LLMs) like LLaMA, BERT, and GPT into enterprise use cases.
 
@@ -26,7 +26,7 @@ Developing end-to-end ML pipelines using scikit-learn, XGBoost, and TensorFlow/K
 Working with spaCy, NLTK, and transformer-based models (BERT, LLaMA, GPT) for tasks like text classification, sentiment analysis, summarization, and enterprise Q&A systems. Interested in fine-tuning LLMs and building LLM-integrated applications.
 
 🚀 AI-Powered Applications & Model Deployment
-Passionate about converting ML models into real-world applications via Flask/FastAPI APIs, Exo WebUI, and cloud services like AWS EC2, S3. Focused on building scalable, intelligent systems with strong UI/UX and practical use.
+Passionate about converting ML models into real-world applications via Flask/FastAPI APIs, Exo WebUI, and cloud services like AWS. Focused on building scalable, intelligent systems with strong UI/UX and practical use.
 </p>
 
 <h2 align ="left">🛠️ Skills</h2>
